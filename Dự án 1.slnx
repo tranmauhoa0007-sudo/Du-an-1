@@ -1,0 +1,40 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../Học C++ bài 1/Học C++ bài 1.vcxproj" Id="923cdfd9-133f-476e-b790-1465da690344" />
+  <Project Path="../Học C++ bài 10.1/Học C++ bài 10.1.vcxproj" Id="8c318510-418f-48e1-9d68-d4cb9ddbb9de" />
+  <Project Path="../Học C++ bài 10/Học C++ bài 10.vcxproj" Id="ed11ebec-8780-41a0-98f7-4493ad619dc3" />
+  <Project Path="../Học C++ bài 11.2/Học C++ bài 11.2.vcxproj" Id="97f3f432-0b38-4aba-9d65-ecdfa2a938c0" />
+  <Project Path="../Học C++ bài 11/Học C++ bài 11.vcxproj" Id="11a41dd7-29d3-4645-bbbc-a8eb2382440a" />
+  <Project Path="../HỌC C++ BÀI 12/HỌC C++ BÀI 12.vcxproj" Id="edf2231d-81f3-48c8-8fe0-76e6c5e2cc91" />
+  <Project Path="../Học C++ Bài 13/Học C++ Bài 13.vcxproj" Id="e7fe96f9-996e-46a3-9428-2a3b2f2d94bc" />
+  <Project Path="../Học C++ Bài 14/Học C++ Bài 14.vcxproj" Id="3b4b31d5-33ec-49ed-81a3-bbe817c951ff" />
+  <Project Path="../Học C++ bài 2/Học C++ bài 2.vcxproj" Id="b856d5b3-87df-4eda-bcab-d3428f17555b" />
+  <Project Path="../Học C++ bài 3/Học C++ bài 3.vcxproj" Id="05943d21-b29e-47ae-83e4-211fe573f539" />
+  <Project Path="../Học C++ bài 4/Học C++ bài 4.vcxproj" Id="15ef4cae-a317-499e-b4f7-d0530e1ffb6e" />
+  <Project Path="../Học C++ BÀI 5/Học C++ BÀI 5.vcxproj" Id="76d74376-902c-449a-b73c-53a358203d57" />
+  <Project Path="../Học C++ bài 7/Học C++ bài 7.vcxproj" Id="801ae175-c98f-4342-abde-eda80f851ddf" />
+  <Project Path="../Học C++ bài 8.1/Học C++ bài 8.1.vcxproj" Id="35e9fb4b-a24b-4f47-83dc-3eb24c58dab4" />
+  <Project Path="../Học C++ bài 8.2/Học C++ bài 8.2.vcxproj" Id="10308e69-ba32-4af5-8438-3ff37914813b" />
+  <Project Path="../Học C++ bài 8.3/Học C++ bài 8.3.vcxproj" Id="067a2690-733e-4a93-961c-65e5082d63bc" />
+  <Project Path="../Học C++ bài 8/Học C++ bài 8.vcxproj" Id="a0616c7a-185d-429f-ba05-7b29456d8488" />
+  <Project Path="../Học C++ bài 9.4/Học C++ bài 9.4.vcxproj" Id="535dff2b-7694-4775-a081-1bacc68b2bb3" />
+  <Project Path="../Học C++ bài 9.5/Học C++ bài 9.5.vcxproj" Id="cbd9fd39-801b-4adb-a076-b3fdc8b4e766" />
+  <Project Path="../Học C++ bài 9.6/Học C++ bài 9.6.vcxproj" Id="1ca23914-0e33-480d-8d0a-1db379c9364c" />
+  <Project Path="../Học C++ bài 9/Học C++ bài 9.vcxproj" Id="84a1f683-81d3-48d8-aa5d-305b91675dcc" />
+  <Project Path="Học C ++ Bài 15.4/Học C ++ Bài 15.4.vcxproj" Id="7d9c88fa-a769-486f-a1e2-ab736e90bf36" />
+  <Project Path="Học C++ Bài 15-2/Học C++ Bài 15-2.vcxproj" Id="19813546-ee7a-4aa0-b15a-80b9624908b4" />
+  <Project Path="Học C++ Bài 15.1/Học C++ Bài 15.1.vcxproj" Id="8a8f483f-c7ef-48a4-81a6-17c02ba1893e" />
+  <Project Path="Học C++ Bài 15.3/Học C++ Bài 15.3.vcxproj" Id="692bd1d2-62dd-4b5a-a1c1-1becb938f60f" />
+  <Project Path="Học C++ Bài 15.5/Học C++ Bài 15.5.vcxproj" Id="c16a11b3-e384-4abc-a9cb-deaae90e3e47" />
+  <Project Path="Học C++ Bài 15.6/Học C++ Bài 15.6.vcxproj" Id="39df0efe-4a65-455d-891a-fdee36a60a10" />
+  <Project Path="học C++ bài 15/học C++ bài 15.vcxproj" Id="405a2347-3f9e-481f-9fa1-b7f2a45e1ac6" />
+  <Project Path="Học C++ Bài 17.2/Học C++ Bài 17.2.vcxproj" Id="0a8b7783-4794-471e-8bd0-6defc6fdb3ed" />
+  <Project Path="Học C++ Bài 18/Học C++ Bài 18.vcxproj" Id="ac68003d-681c-4826-a0b4-37f3659d4b62" />
+  <Project Path="Học C++ Bài 19/Học C++ Bài 19.vcxproj" Id="871cd3ef-aee4-4309-ac76-d1020538726f" />
+  <Project Path="Học C++ Bài tập 17/Học C++ Bài tập 17.vcxproj" Id="4238c9cd-66d0-4314-8885-707b2feef590" />
+  <Project Path="Học viết mật khẩu/Học viết mật khẩu.vcxproj" Id="e44987f9-af92-4d21-8a41-9d3603709970" />
+  <Project Path="kiểm tra hàm hash trong visual stadio dùng ngôn ngữ c++/kiểm tra hàm hash trong visual stadio dùng ngôn ngữ c++.vcxproj" Id="c7cb066f-7431-4da6-b1c0-3288090aa3da" />
+</Solution>
